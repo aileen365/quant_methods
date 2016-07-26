@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Applied Quantitative Methods
-tagline:          'An open course'
-description:      'Structure data, build models, and plot results in the R programming language'
+title:            Test
+tagline:          'Test'
+description:      'Test'
 url:              aileen365.github.io/quant_methods
 baseurl:          /quant_methods/
 
 author:
-  name:           'Dan McGlinn'
-  url:            https://twitter.com/danmcglinn
+  name:           'Test'
+  url:            https://twitter.com/test
 
 github:
-  repo:           https://github.com/dmcglinn/quant_methods
+  repo:           https://github.com/aileen365/quant_methods
